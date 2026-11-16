@@ -1,5 +1,5 @@
  
-# ⚡ CIRCUIT BOARD CITY
+# ⚡ CIRCUIT CITY
 ### Build It. Connect It. Power It.
 
 <p align="center">
