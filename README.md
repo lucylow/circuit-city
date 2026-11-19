@@ -11,6 +11,8 @@
   <em>Educational Puzzle Builder · Electronics Simulator · STEM Game · Creative Sandbox</em>
 </p>
 
+![](https://github.com/lucylow/circuit-city/blob/main/96a6682b-bffb-4b2e-b3e6-ee896618c617.png?raw=true)
+
 ---
 
 ## 📖 Table of Contents
